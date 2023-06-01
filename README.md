@@ -38,6 +38,22 @@ The visualization was done using Microsoft Power BI.
 ![](Top10Countries.jpg)
 
 
-- **% SHOW TYPES:** This shows the percentage of show types on Netflix which shows that there are more movies than TV shows on Netflix with 69.62% and 30.38% respectively.
+- **% SHOW TYPES:** This states the percentage of show types on Netflix which shows that there are more movies than TV shows on Netflix with 69.62% and 30.38% respectively.
 
-![](%movieTypes.jpg)
+![](PermovieTypes.jpg)
+
+- **NO OF MOVIES PER MONTH:** This chart indicates the number of movie that have been released in each month.
+
+![](MoviesPerMonth.jpg)
+
+- **MOVIES PER RATING:** This shows the rating of movies and number of movies per each rating. 
+
+![](TotalShowsByRating.jpg)
+
+- **NUMBER OF MOVIES IN THE LAST 20 YEARS:** This chart displays the total number of movies released on Netflix in the last 20 years in which 2018 is the year with the highest number of movies released.
+
+![](TotalMoviesPerYear.jpg)
+---
+## CONCLUSION AND RECOMMENDATION
+
+Netflix should increase the number of TV shows they are releasing and should make their movies and shows cut across all other types of rating as the analysis shows that most movies released are mostly rated TV-MA and TV-14.
