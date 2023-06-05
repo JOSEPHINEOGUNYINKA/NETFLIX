@@ -21,7 +21,7 @@ The data was loaded into power query for cleaning and transformation, it was the
 ## ANALYSIS AND VISUALIZATION
 The visualization was done using Microsoft Power BI. 
 ![](NetflixDashboard.jpg)
-
+You can interract with the report [here](https://app.powerbi.com/view?r=eyJrIjoiZDQ1YTdlMjctOWMzYS00YWNhLTg3YjItNGJhYjk2YzJmZTAzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true)
 
 - **TOP 10 COUNTRIES:** This chart shows the top 10 county movies on Netflix. The countries include
   - United States
